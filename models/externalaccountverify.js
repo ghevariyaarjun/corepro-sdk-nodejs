@@ -2,6 +2,7 @@
  * Created by socialmoneydev on 8/30/2014.
  */
 var ExternalAccountIdOnly = require("./externalaccountidonly");
+var Requestor = require("../utils/requestor");
 
 var ExternalAccountVerify = function(){
     var self = this;
